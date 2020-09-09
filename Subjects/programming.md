@@ -8,8 +8,34 @@
 
 **Контакты:** группа "ITMO C++ 20-21" в Telegram
 
-[Лекции и лабораторные](https://drive.google.com/drive/u/0/folders/15FHIhLcpxFBHsXIf4jdL7EfyNCMHJpyl)
+#### Полезные ссылки:
+
+[Лекции](https://drive.google.com/drive/folders/1uc3wkwBfxZNWHib_scjsaoYCRwlfUHdW?usp=sharing)
+
+[Лабы](https://drive.google.com/drive/folders/1G5FEvnBCm4mHrxmkrewrCymDLE77PDVc?usp=sharing)
+
+[Какой у меня вариант лабы?](https://docs.google.com/spreadsheets/d/1O6sHNaf9VAOrs8oKHQlZ4liDHluFJSbtTUVSTwIlE3o/edit?usp=sharing)
+`Только в качестве ознакомления, автор не несет ответственности за полную достоверность данной таблицы.`
 
 ### Практика
 
 **Преподаватель:** [Ярлыченко Николай](https://isu.ifmo.ru/pls/apex/f?p=2143:3:103208023387639::NO:RP:PID:270219)
+
+Лабораторные пишутся **только на языке C!**
+
+#### Получение баллов
+
+Форма отчета | Максимальное количество баллов
+-- | --
+Лабы | 60 баллов
+Рубежки | 20 (2 x 10 баллов)
+Зачет | 20 баллов
+**Итого** | **100 баллов**
+
+#### Структура лабораторных работ
+
+Лаба | Максимальное количество баллов
+-- | --
+Простые лабы | 30 (3 блока по 4 лабы x 10 баллов за блок)
+Сложные лабы | 30 (3 x 10 баллов)
+**Итого** | **60 баллов**
