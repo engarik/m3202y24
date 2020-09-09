@@ -1,4 +1,4 @@
-# ИТМО ИТиП ИСиТ M3102 2024
+# M3102 ИСиТ ИТиП ИТМО 2024
 ## 1 семестр
 
 ### Учебные дисциплины:
@@ -13,12 +13,11 @@
 *  [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 
-### Учебная документация:
-* [Расписание занятий в ИСУ](https://isu.ifmo.ru/pls/apex/f?p=2143:15:103208023387639::NO::SCH,SCH_SEARCH,SCH_TYPE,SCH_WEEK,SCH_ID,SCH_FOUND:1,m3102,1,2,M3102,TRUE)
-* [Конспекты ИТМО](http://neerc.ifmo.ru/wiki/)
-
-### Учебные ссылки:
+### Полезные ссылки:
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
+* [Расписание занятий в ИСУ](https://isu.ifmo.ru/pls/apex/f?p=2143:15:103208023387639::NO::SCH,SCH_SEARCH,SCH_TYPE,SCH_WEEK,SCH_ID,SCH_FOUND:1,m3102,1,2,M3102,TRUE)
+* [Навигатор по корпусам](https://isu.ifmo.ru/pls/apex/f?p=2031:1:117859551152166)
+* [Конспекты ИТМО](http://neerc.ifmo.ru/wiki/)
 
 [Спасибо за идею и шаблон M3103!](https://github.com/y0f0/ITMO)
