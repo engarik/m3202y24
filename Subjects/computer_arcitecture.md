@@ -27,3 +27,5 @@
 [Теория, а также лабораторные и домашние работы](https://yadi.sk/i/P0oXzH-ssppvgg)
 
 [Эмулятор ЭВМ](https://yadi.sk/d/bORakeKgDdjNRg?w=1)
+
+[Хороший эмулятор ЭВМ](https://github.com/I-SER-I/ITMO-EVM-1-sem/blob/master/bcomp.jar)
