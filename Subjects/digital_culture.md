@@ -8,4 +8,8 @@
 
 ### Практики
 
-**Преподаватель:** TBD
+**Преподаватель:** [Страдина Марина Владимировна](https://isu.ifmo.ru/person/300987)
+
+[Класс в Piazza](https://piazza.com/class/ke46vs4ti6t4ae)
+
+[Лабы и ресурсы](https://piazza.com/niuitmo.ru/summer2020/cs101/resources)
