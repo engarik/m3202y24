@@ -19,7 +19,7 @@
 Рубежка | 10 (5 x 2 балла)
 [Экзамен](#Экзамен) | 20 баллов
 
-[Баллы](https://docs.google.com/spreadsheets/d/19_ElYNUXjRGZkWpAX-vncizSIZuv6Gc6sYsC4HqTkwc/edit#gid=0)
+[Баллы](https://docs.google.com/spreadsheets/d/19_ElYNUXjRGZkWpAX-vncizSIZuv6Gc6sYsC4HqTkwc/edit#gid=754691713)
 
 *Баллы можно и попросить (≧◡≦)*
 *Контрольные можно переписать **1 раз***
