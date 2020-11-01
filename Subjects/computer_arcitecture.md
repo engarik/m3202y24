@@ -26,6 +26,8 @@
 
 [Теория, а также лабораторные и домашние работы](https://yadi.sk/i/P0oXzH-ssppvgg)
 
+[Баллы](https://docs.google.com/spreadsheets/d/1qNk9vbicTxBZP1zUEbxtsg2PiZh3lke9RhAha7_CXDo/edit#gid=863057482)
+
 [Эмулятор ЭВМ](https://yadi.sk/d/bORakeKgDdjNRg?w=1)
 
 [Хороший эмулятор ЭВМ](https://github.com/I-SER-I/ITMO-EVM-1-sem/blob/master/bcomp.jar)
