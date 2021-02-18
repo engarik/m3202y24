@@ -13,6 +13,5 @@
 
 
 ### Ссылки:
-* [ИСУ](https://isu.ifmo.ru/)
-* [ЦДО](https://de.ifmo.ru/)
 * [Список группы](/group_list.md)
+* [Таблица с баллами](https://docs.google.com/spreadsheets/d/1-ajae7j-vPBgRCIs3hYfXjtEVBXahmFwbnReYltQJkk/edit#gid=111940752)
