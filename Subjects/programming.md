@@ -1,41 +1,26 @@
 # Программирование на С и С++
 
-## 1 семестр
+## 2 семестр
 
 ###  Лекции
 
-**Преподаватель:** Хвастунов Александр Павлович
-
-**Контакты:** группа "ITMO C++ 20-21" в Telegram
-
-#### Полезные ссылки:
-
-[Лекции](https://drive.google.com/drive/folders/1uc3wkwBfxZNWHib_scjsaoYCRwlfUHdW?usp=sharing)
-
-[Лабы](https://drive.google.com/drive/folders/1G5FEvnBCm4mHrxmkrewrCymDLE77PDVc?usp=sharing)
-
-[Какой у меня вариант лабы?](https://docs.google.com/spreadsheets/d/1O6sHNaf9VAOrs8oKHQlZ4liDHluFJSbtTUVSTwIlE3o/edit?usp=sharing)
-`Только в качестве ознакомления, автор не несет ответственности за полную достоверность данной таблицы.`
+**Преподаватель:** [Хвастунов Александр Павлович](https://isu.ifmo.ru/person/hvost239)
 
 ### Практика
 
 **Преподаватель:** [Ярлыченко Николай](https://isu.ifmo.ru/person/kol9)
 
-Лабораторные пишутся **только на языке C!**
-
-#### Получение баллов
+### Аттестация
 
 Форма отчета | Максимальное количество баллов
 -- | --
-Лабы | 60 баллов
+Лабы | 60 (6 x 10 баллов)
 Рубежки | 20 (2 x 10 баллов)
-Зачет | 20 баллов
-**Итого** | **100 баллов**
+Экзамен  | 20 баллов
+**Итого**   | **100 баллов**
 
-#### Структура лабораторных работ
+### Ссылки:
 
-Лаба | Максимальное количество баллов
--- | --
-Простые лабы | 30 (3 блока по 4 лабы x 10 баллов за блок)
-Сложные лабы | 30 (3 x 10 баллов)
-**Итого** | **60 баллов**
+[Лекции](https://drive.google.com/drive/folders/1uc3wkwBfxZNWHib_scjsaoYCRwlfUHdW?usp=sharing)
+
+[Лабы](https://drive.google.com/drive/folders/1jmmZsH7u3udkW3QCbpuSHM5DdE1D5TZW)
