@@ -24,3 +24,5 @@
 [Лекции](https://drive.google.com/drive/folders/1uc3wkwBfxZNWHib_scjsaoYCRwlfUHdW?usp=sharing)
 
 [Лабы](https://drive.google.com/drive/folders/1jmmZsH7u3udkW3QCbpuSHM5DdE1D5TZW)
+
+[Записи лекций](https://youtube.com/playlist?list=PLm7YiIPwt88CyDpHgmhO0gRNSGaHXne9J)
