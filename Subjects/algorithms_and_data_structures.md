@@ -22,7 +22,7 @@
 
 [Стримы Никиты Кравцова](https://www.twitch.tv/linn1024)
 
-[Оценки](https://docs.google.com/spreadsheets/d/1s_6PV40fFa0zKhZjKVN-v3FM9e0g05HGaTDSRmRgDLU/edit#gid=1728556842)
+[Оценки](https://docs.google.com/spreadsheets/d/1pebK1mKc5BNyNZmPyqqMYgQ5gn6ptTENzsajICKwSIo/edit#gid=192058897)
 
 [Планы занятий](https://docs.google.com/spreadsheets/d/1L2ja62S3xaAG9tGxOjSkV_20swbb0-o051aTwjcLyiA/edit#gid=1873012480)
 
